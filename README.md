@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Self taught developer. Familiar with web development and web based technologies. And have a obsession for Typescript.
+Self taught developer. Familiar with web development and web based technologies, and have a obsession for Typescript.
 
 ## 🌐 Socials:
 
