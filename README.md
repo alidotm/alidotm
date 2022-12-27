@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Self taught developer. Familiar with web development and web based technologies, and have a obsession for Typescript.
+Innovative web developer with a passion for creating cutting-edge websites and applications using Nextjs, Tailwind, and Typescript. Constantly seeking new challenges and ways to push the limits of web development.
 
 ## 🌐 Socials:
 
